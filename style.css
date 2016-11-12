@@ -1,0 +1,233 @@
+
+	body{
+		margin: 0;
+		padding: 0;
+		font-family: sans-serif;
+	}
+
+	.textfacebook{
+		margin: 0;
+		float: left;
+		padding-top: 10px;
+		font-size: 40px;
+	}
+
+	.content-header{
+		background-color: #3B5998;
+		color: #FFFFFF;
+		padding: 10px 0px;
+	} 
+
+	.content-header form{
+		float: right;
+	}
+
+	.content-header label, .content-header input{
+		display: block;
+	}
+
+	.wrapper{
+		width: 1000px;
+		margin: 0 auto;
+	}
+
+	.group-form{
+		margin-left: 10px; 
+	}
+
+	.group-form a{
+		text-decoration: none;
+		color: #708EC8;
+		font-size: 12px;
+	}
+
+	.group-form a:hover{
+		text-decoration: underline;
+		color: #708EC8;
+	}
+
+	.group-form{
+		float: left;
+	}
+
+	.group-form label{
+		font-size: 13px;
+		padding-top: 7px;
+		padding-bottom: 5px;
+	}
+
+	.group-form button{
+		margin-top: 25px;
+		background-color: #4267B2;
+		color: #FFFFFF;
+		cursor: pointer;
+		border: 1px solid #34518C;
+		line-height: 20px;
+	}
+
+	.group-form input a{
+		margin-top: 17px;
+	}
+
+
+	.clear{
+		clear: both;
+	}
+
+	.content-section{
+		background-color: #EAEDF4;
+		height: 700px;
+	}
+
+
+	.wrapper-section{
+		width: 450px;
+		float: right;
+		padding-top: 15px;
+	}
+
+	.wrapper-section a{
+		text-decoration: none;
+		font-size: 12px;
+		color: #344E86;
+	}
+
+	.wrapper-section h1{
+		margin-top: 0px;
+		margin-bottom: 0px;
+		font-size: 35px;
+	}
+
+	.wrapper-section h4{
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+
+	.textunder a{
+		text-decoration: none;
+		font-size: 14px;
+		padding-top: 5px;
+		color: #344E86;
+	}
+
+	.textunder{
+		font-size: 13px;
+		padding-top: 5px;
+	}
+
+	.wrapper-section input[type="text"]{
+		border: solid 1.5px #ABABAB;
+		border-radius: 5px;
+		line-height: 40px;
+		width: 435px;
+		font-size: 17px;
+		padding-left: 10px;
+	}
+
+	.content-section .padding{
+		width: 20%;
+		float: left;	
+	}
+
+	.content-section .padding:hover{
+		text-decoration: underline;
+	}
+
+	.content-section .padding select{
+		width: 100%;
+		padding: 8px 5px;
+	}
+
+	.content-section .padding-ot {
+		width: 27%;
+		float: left;
+		margin-left: 10px;
+		color: #4C6199;
+	}
+
+
+
+
+	.text{
+		width: 210px !important;
+	}
+
+	.textt{
+		font-size: 11px; 
+	}
+
+
+	.textt a:hover{
+		text-decoration: underline;
+	}
+
+	.wrapper-section button{
+		background-color: #609C4D;
+		width: 200px;
+		height: 40px;
+		border: solid 1px #ABABAB;
+		border-radius: 5px;
+		color: #FFFFFF;
+		font-size: 20px;
+	}
+
+	.left{
+		padding-top: 10px;
+		width: 500px;
+	}
+
+	.content-footer a{
+		text-decoration: none;
+		color: #3B59A6;
+		padding-left: 17px;
+		font-size: 12px;
+		margin-top: 10px; 
+	}
+
+	.content-footer a:hover{
+		text-decoration: underline;
+	}
+
+	.content-footer hr{
+		margin-top: 10px;
+		margin-bottom: 1px;
+	}
+
+	.content-footer a:first-child{
+		padding-left: 0px;
+	}
+
+	.content-footer a:last-child{
+		padding-right: 0px;
+	}
+
+	.content-footer li{
+		list-style: none;
+	}
+
+	.content-footer ul{
+		float: left;
+	}
+	
+	.content-footer ul{
+		padding-left: 27px;
+	}
+
+	.content-footer ul li{
+		padding-top: 2px;
+	}
+
+	.first ul{
+		padding-left: 0px;
+	}
+	
+
+	.copyright{
+		font-size: 11px;
+		color: #ABABAB;
+	}
+
+	
+
+	
+
